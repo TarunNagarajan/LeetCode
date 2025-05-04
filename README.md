@@ -1,2 +1,2 @@
 # LeetCode
-leetcode solutions, strategies and learning resources
+competitive programming, data structures and algorithms solutions, strategies and learning resources
